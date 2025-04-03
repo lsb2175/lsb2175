@@ -10,7 +10,7 @@
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-## Portfolio
+# Portfolio:
 
 Check out my portfolio to explore my work in public health, data analysis, and design:
 

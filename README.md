@@ -9,3 +9,11 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+## Portfolio
+
+Check out my portfolio to explore my work in public health, data analysis, and design:
+
+[My Portfolio](your-portfolio-link-here)
+
+Feel free to browse through the projects and get in touch if you have any questions or collaboration opportunities!

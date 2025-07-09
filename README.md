@@ -14,6 +14,6 @@
 
 Check out my portfolio to explore my work in public health, data analysis, and design:
 
-[My Portfolio](your-portfolio-link-here)
+[My Portfolio](https://github.com/lsb2175/My-Portfolio.git)
 
 Feel free to browse through the projects and get in touch if you have any questions or collaboration opportunities!
